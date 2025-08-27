@@ -1,9 +1,9 @@
 # name
-Bank simulator (Test)
+Bank simulator
 ## Features
 - Withdraw
 - Deposit
-- Display Account Balance
+- Display Account(s) Balance
 # How to use
 1. Download the Bak.py file
 2. Open it
